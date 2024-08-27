@@ -7,3 +7,4 @@ echo $intvar;//output:123
 echo "<p>$floatvar";//output:123.45
 
 echo "<br><br><br><strong>By Amellya </strong>";
+?>
