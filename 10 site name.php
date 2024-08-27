@@ -3,7 +3,7 @@
 // membuat konstanta
 define('VERSION', '1.0.0');
 
-const SITE_NAME  = "Meylisaekaputry";
+const SITE_NAME  = "Amellya";
 const BASE_URL    = "https://www.Amellya.com";
 
 // cetak nilai konstanta
