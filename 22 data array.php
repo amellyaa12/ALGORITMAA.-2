@@ -17,7 +17,7 @@ array("nasi goreng");
 array("soto");
 array("bubur");
 
-echo $makanan  = "<p>Nasi goreng"; //output:Nasi goreng
+echo $makanan  = "<p>Nasi goreng"; //output:NasiA goreng
 echo $makanan = "<p>soto"; //output:soto
 echo $makanan  = "<p>bubur"; //output:bubur
 
